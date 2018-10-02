@@ -1,0 +1,14 @@
+.\objects\stm32f10x_adc.o: lib\FWlib\src\stm32f10x_adc.c
+.\objects\stm32f10x_adc.o: .\lib\FWlib\inc\stm32f10x_adc.h
+.\objects\stm32f10x_adc.o: .\lib\CMSIS\stm32f10x.h
+.\objects\stm32f10x_adc.o: .\lib\CMSIS\core_cm3.h
+.\objects\stm32f10x_adc.o: C:\Keil_v5\ARM\ARMCC\include\stdint.h
+.\objects\stm32f10x_adc.o: .\lib\CMSIS\system_stm32f10x.h
+.\objects\stm32f10x_adc.o: .\main\stm32f10x_conf.h
+.\objects\stm32f10x_adc.o: .\lib\FWlib\inc\stm32f10x_gpio.h
+.\objects\stm32f10x_adc.o: .\lib\CMSIS\stm32f10x.h
+.\objects\stm32f10x_adc.o: .\lib\FWlib\inc\stm32f10x_rcc.h
+.\objects\stm32f10x_adc.o: .\lib\FWlib\inc\stm32f10x_sdio.h
+.\objects\stm32f10x_adc.o: .\lib\FWlib\inc\stm32f10x_tim.h
+.\objects\stm32f10x_adc.o: .\lib\FWlib\inc\stm32f10x_usart.h
+.\objects\stm32f10x_adc.o: .\lib\FWlib\inc\misc.h

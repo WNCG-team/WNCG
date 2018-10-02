@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+".\objects\system_stm32f10x.o"
+".\objects\startup_stm32f10x_hd.o"
+".\objects\main.o"
+".\objects\stm32f10x_it.o"
+".\objects\core_cm3.o"
+".\objects\oled.o"
+".\objects\202.o"
+".\objects\timer.o"
+".\objects\esp8266.o"
+".\objects\bsp_usart1.o"
+".\objects\common.o"
+".\objects\delay.o"
+".\objects\sys.o"
+".\objects\misc.o"
+".\objects\stm32f10x_gpio.o"
+".\objects\stm32f10x_sdio.o"
+".\objects\stm32f10x_tim.o"
+".\objects\stm32f10x_rcc.o"
+".\objects\stm32f10x_usart.o"
+".\objects\stm32f10x_adc.o"
+".\objects\stm32f10x_dac.o"
+".\objects\stm32f10x_dma.o"
+".\objects\stm32f10x_exti.o"
+--library_type=microlib --strict --scatter ".\Objects\esp8266.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\esp8266.map" -o .\Objects\esp8266.axf

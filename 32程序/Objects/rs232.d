@@ -1,0 +1,15 @@
+.\objects\rs232.o: User\rs232.c
+.\objects\rs232.o: User\rs232.h
+.\objects\rs232.o: .\lib\CMSIS\stm32f10x.h
+.\objects\rs232.o: .\lib\CMSIS\core_cm3.h
+.\objects\rs232.o: C:\Keil_v5\ARM\ARMCC\include\stdint.h
+.\objects\rs232.o: .\lib\CMSIS\system_stm32f10x.h
+.\objects\rs232.o: .\main\stm32f10x_conf.h
+.\objects\rs232.o: .\lib\FWlib\inc\stm32f10x_gpio.h
+.\objects\rs232.o: .\lib\CMSIS\stm32f10x.h
+.\objects\rs232.o: .\lib\FWlib\inc\stm32f10x_rcc.h
+.\objects\rs232.o: .\lib\FWlib\inc\stm32f10x_sdio.h
+.\objects\rs232.o: .\lib\FWlib\inc\stm32f10x_tim.h
+.\objects\rs232.o: .\lib\FWlib\inc\stm32f10x_usart.h
+.\objects\rs232.o: .\lib\FWlib\inc\misc.h
+.\objects\rs232.o: .\lib\FWlib\inc\stm32f10x_adc.h

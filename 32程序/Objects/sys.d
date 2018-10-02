@@ -1,0 +1,14 @@
+.\objects\sys.o: system\sys.c
+.\objects\sys.o: .\system\头文件\sys.h
+.\objects\sys.o: .\lib\CMSIS\stm32f10x.h
+.\objects\sys.o: .\lib\CMSIS\core_cm3.h
+.\objects\sys.o: C:\Keil_v5\ARM\ARMCC\include\stdint.h
+.\objects\sys.o: .\lib\CMSIS\system_stm32f10x.h
+.\objects\sys.o: .\main\stm32f10x_conf.h
+.\objects\sys.o: .\lib\FWlib\inc\stm32f10x_gpio.h
+.\objects\sys.o: .\lib\CMSIS\stm32f10x.h
+.\objects\sys.o: .\lib\FWlib\inc\stm32f10x_rcc.h
+.\objects\sys.o: .\lib\FWlib\inc\stm32f10x_sdio.h
+.\objects\sys.o: .\lib\FWlib\inc\stm32f10x_tim.h
+.\objects\sys.o: .\lib\FWlib\inc\stm32f10x_usart.h
+.\objects\sys.o: .\lib\FWlib\inc\misc.h

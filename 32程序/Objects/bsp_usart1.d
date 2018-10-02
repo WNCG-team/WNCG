@@ -1,0 +1,16 @@
+.\objects\bsp_usart1.o: system\bsp_usart1.c
+.\objects\bsp_usart1.o: .\system\头文件\bsp_usart1.h
+.\objects\bsp_usart1.o: C:\Keil_v5\ARM\ARMCC\include\stdio.h
+.\objects\bsp_usart1.o: .\lib\CMSIS\stm32f10x.h
+.\objects\bsp_usart1.o: .\lib\CMSIS\core_cm3.h
+.\objects\bsp_usart1.o: C:\Keil_v5\ARM\ARMCC\include\stdint.h
+.\objects\bsp_usart1.o: .\lib\CMSIS\system_stm32f10x.h
+.\objects\bsp_usart1.o: .\main\stm32f10x_conf.h
+.\objects\bsp_usart1.o: .\lib\FWlib\inc\stm32f10x_gpio.h
+.\objects\bsp_usart1.o: .\lib\CMSIS\stm32f10x.h
+.\objects\bsp_usart1.o: .\lib\FWlib\inc\stm32f10x_rcc.h
+.\objects\bsp_usart1.o: .\lib\FWlib\inc\stm32f10x_sdio.h
+.\objects\bsp_usart1.o: .\lib\FWlib\inc\stm32f10x_tim.h
+.\objects\bsp_usart1.o: .\lib\FWlib\inc\stm32f10x_usart.h
+.\objects\bsp_usart1.o: .\lib\FWlib\inc\misc.h
+.\objects\bsp_usart1.o: C:\Keil_v5\ARM\ARMCC\include\string.h
